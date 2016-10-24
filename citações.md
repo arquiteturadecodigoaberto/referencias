@@ -13,3 +13,15 @@
 > Um ativista do software livre dirá: “Seu programa é muito atrativo, porém, eu valorizo mais a minha liberdade. Sendo assim, eu rejeito seu programa. Ao invés disso, irei apoiar um projeto para desenvolver um substituto livre”. Se nós valorizamos nossa liberdade, nós podemos agir para mantê-la e defendê-la.
 
 [Extraido de gnu.org](http://www.gnu.org/philosophy/open-source-misses-the-point.html)
+
+# Etmologia da palavra Freee
+
+> Able to act or be done as one wishes; not under the control of another
+
+https://en.oxforddictionaries.com/definition/free
+
+> Que pode dispor de sua pessoa; que não está sujeito a algum senhor (por oposição a servil, escravo):
+
+>  Sem formalidade, obstáculos ou proibições; autorizado, permitido
+
+https://contas.tcu.gov.br/dicionario/home.asp
