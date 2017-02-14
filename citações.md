@@ -25,3 +25,9 @@ https://en.oxforddictionaries.com/definition/free
 >  Sem formalidade, obstáculos ou proibições; autorizado, permitido
 
 https://contas.tcu.gov.br/dicionario/home.asp
+
+# Percentual de uso de computadores com Linux
+
+https://en.wikipedia.org/wiki/Usage_share_of_operating_systems
+
+
